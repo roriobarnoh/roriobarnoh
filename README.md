@@ -25,7 +25,7 @@
 
 ### 📫 Contact Me
 • 📧 Email:roriokiptoo2016@gmail.com  
-• 💼 LinkedIn(https://www.linkedin.com/in/kiptoo-rorio-77a634214/) 
-• 🌐 Portfolio:(https://roriobarnoh.github.io/Rorio/)
+• 💼 LinkedIn : https://www.linkedin.com/in/kiptoo-rorio-77a634214/
+• 🌐 Portfolio : https://roriobarnoh.github.io/Rorio/
 ---
 

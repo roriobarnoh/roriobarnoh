@@ -25,15 +25,7 @@
 
 ### 📫 Contact Me
 • 📧 Email:roriokiptoo2016@gmail.com  
-• 💼 LinkedIn:[ [your-linkedin-profile] ](https://www.linkedin.com/in/kiptoo-rorio-77a634214/) 
-• 🌐 Portfolio: [[your-website.com]
-](https://roriobarnoh.github.io/Rorio/)
+• 💼 LinkedIn(https://www.linkedin.com/in/kiptoo-rorio-77a634214/) 
+• 🌐 Portfolio:(https://roriobarnoh.github.io/Rorio/)
 ---
-
-### 🎯 Fun Fact
-• I enjoy building things that solve real problems — and probably have more GitHub repos than I can count! 😄
-
----
-
-![Kiptoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiptoororio&show_icons=true&theme=default)
 
